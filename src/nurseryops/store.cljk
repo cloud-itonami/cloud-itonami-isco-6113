@@ -1,7 +1,7 @@
 (ns nurseryops.store
   "SSoT for the ISCO-08 6113 nursery/horticultural-site scheduling and
   logistics coordination actor (itonami actor pattern, ADR-2607121000 /
-  CLAUDE.md Actors section; README's 'Robotics premise' — a nursery
+  AGENTS.md Actors section; README's 'Robotics premise' — a nursery
   scheduling/logistics coordination robot performs crew scheduling,
   planting/pruning/harvest-record data logging and
   plants/seeds/agrochemicals supply-order coordination for a
